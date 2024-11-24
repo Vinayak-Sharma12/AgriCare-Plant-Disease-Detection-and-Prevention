@@ -40,7 +40,7 @@ Text-to-Speech Integration
 The app also integrates gTTS (Google Text-to-Speech) to convert the generated answers into audio for better user interaction.
 
 ## **3. Input / Output**
-<img src="https://postimg.cc/q6zKtwC7][img]https://i.postimg.cc/q6zKtwC7/Screenshot-2024-11-24-at-1-14-24-PM.png[/img]" width="40%" height="40%">
+<img src="https://postimg.cc/q6zKtwC7][img]https://i.postimg.cc/q6zKtwC7/Screenshot-2024-11-24-at-1-14-24-PM.png[/img]" width="60%" height="60%">
 
 ## **4. Screenshot of the Interface**
 <img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
