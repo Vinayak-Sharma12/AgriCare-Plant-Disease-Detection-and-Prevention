@@ -1,12 +1,12 @@
 # AgriCare-Plant-Disease-Detection-and-Prevention
 ## **1. Overview**
-The Plant Disease Recognition and Assistance System uses machine learning and AI-powered tools to help identify plant diseases from images. This application allows users to upload images of plant leaves and predict potential diseases based on a pre-trained model. Additionally, the system integrates RAG (Retrieval-Augmented Generation) to answer user questions based on a document containing helpful agricultural information.
+The Plant Disease Recognition and Assistance System uses Deep learning and AI-powered tools to help identify plant diseases from images. This application allows users to upload images of plant leaves and predict potential diseases based on a pre-trained model. Additionally, the system integrates RAG (Retrieval-Augmented Generation) to answer user questions based on a document containing helpful agricultural information.
 
-Features
-Disease Recognition: Upload images of plant leaves to detect diseases.
-Question Answering: Ask questions related to plant health, and get context-based answers from a reference document.
-Text-to-Speech: Converts the answers into speech for better accessibility.
-How It Works
+## **. Feature**
+-Disease Recognition: Upload images of plant leaves to detect diseases.
+-Question Answering: Ask questions related to plant health, and get context-based answers from a reference document.
+-Text-to-Speech: Converts the answers into speech for better accessibility.
+**How It Works**
 Disease Recognition
 Upload Image: Upload an image of a plant leaf.
 Prediction: The system will process the image and use a pre-trained model to detect diseases.
