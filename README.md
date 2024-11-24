@@ -41,6 +41,9 @@ The app also integrates gTTS (Google Text-to-Speech) to convert the generated an
 
 ## **3. Input / Output**
 <img src="https://i.postimg.cc/tJzNMmqF/Screenshot-2024-11-24-at-1-14-24-PM.png" width="60%" height="60%">
+<img src="https://i.postimg.cc/tJzNMmqF/Screenshot-2024-11-24-at-1-14-24-PM.png" width="60%" height="60%">
+<img src="https://i.postimg.cc/tJzNMmqF/Screenshot-2024-11-24-at-1-14-24-PM.png" width="60%" height="60%">
+<img src="https://i.postimg.cc/tJzNMmqF/Screenshot-2024-11-24-at-1-14-24-PM.png" width="60%" height="60%">
 
 ## **4. Screenshot of the Interface**
 <img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
