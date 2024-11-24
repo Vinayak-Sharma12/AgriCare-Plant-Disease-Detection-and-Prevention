@@ -9,14 +9,22 @@ The Plant Disease Recognition and Assistance System uses Deep learning and AI-po
 
 **How It Works**
 
-Disease Recognition
-Upload Image: Upload an image of a plant leaf.
-Prediction: The system will process the image and use a pre-trained model to detect diseases.
-Result: The system will display the predicted disease and provide further recommendations.
-Question Answering
-Ask a Question: Type in a question related to plant health.
-Answer Generation: The system will retrieve context from a document and generate a precise answer.
-Text-to-Speech: The answer is converted into speech for convenience.
+**Disease Recognition**
+
+**Upload Image**: Upload an image of a plant leaf.
+
+**Prediction**: The system will process the image and use a pre-trained model to detect diseases.
+
+**Result** : The system will display the predicted disease and provide further recommendations.
+
+**Question Answering**
+
+**Ask a Question**: Type in a question related to plant health.
+
+**Answer Generation**: The system will retrieve context from a document and generate a precise answer.
+
+**Text-to-Speech**: The answer is converted into speech for convenience.
+
 Project Components
 Disease Recognition Model
 The app uses a Keras-based deep learning model trained to detect 38 different plant diseases. The model is built using TensorFlow and Keras.
