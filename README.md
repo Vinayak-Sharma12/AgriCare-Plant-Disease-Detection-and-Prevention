@@ -1,7 +1,9 @@
 # AgriCare-Plant-Disease-Detection-and-Prevention
 ## **1. Overview**
-The Plant Disease Recognition and Assistance System uses Deep learning and AI-powered tools to help identify plant diseases from images. This application allows users to upload images of plant leaves and predict potential diseases based on a pre-trained model. Additionally, the system integrates RAG (Retrieval-Augmented Generation) to answer user questions based on a document containing helpful agricultural information.
+The Plant Disease Recognition and Assistance System uses Deep learning and AI-powered tools to help identify plant diseases from images. This application allows users to upload images of plant leaves and predict potential diseases based on a pre-trained model. Additionally, the system integrates RAG (Retrieval-Augmented Generation) to answer user questions based on a document containing helpful agricultural information.The model have 95+% accuracy in detecting 
 
+ DataSet Link -> https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+ Trained Model ->https://drive.google.com/drive/folders/12A5jDLj3RWhr12egESEhbmQVlMaMTUZx?usp=sharing
 ## **2.Feature**
 - **Disease Recognition**: Upload images of plant leaves to detect diseases.
 - **Question Answering**: Ask questions related to plant health, and get context-based answers from a reference document.
@@ -45,6 +47,4 @@ The app also integrates gTTS (Google Text-to-Speech) to convert the generated an
 <img src="https://i.postimg.cc/wjMQwVSs/Screenshot-2024-11-24-at-1-15-20-PM.png" width="60%" height="60%">
 <img src="https://i.postimg.cc/d0TmY0Qs/Screenshot-2024-11-24-at-1-15-36-PM.png" width="60%" height="60%">
 
-## **4. Screenshot of the Interface**
-<img src="https://user-images.githubusercontent.com/7460892/207004468-57fc5284-f747-4b93-9bb7-2ff7f1032837.png" width="50%" height="50%">
 
