@@ -3,6 +3,7 @@
 The Plant Disease Recognition and Assistance System uses Deep learning and AI-powered tools to help identify plant diseases from images. This application allows users to upload images of plant leaves and predict potential diseases based on a pre-trained model. Additionally, the system integrates RAG (Retrieval-Augmented Generation) to answer user questions based on a document containing helpful agricultural information.The model have 95+% accuracy in detecting 
 
  DataSet Link -> https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+ 
  Trained Model ->https://drive.google.com/drive/folders/12A5jDLj3RWhr12egESEhbmQVlMaMTUZx?usp=sharing
 ## **2.Feature**
 - **Disease Recognition**: Upload images of plant leaves to detect diseases.
